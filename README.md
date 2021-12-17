@@ -1,4 +1,6 @@
 # OpenSCAP
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frsprudencio%2Fopenscap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frsprudencio%2Fopenscap?ref=badge_shield)
+
 
 Open Source Security Compliance Solution
 
@@ -126,3 +128,7 @@ oscap xccdf generate guide --profile PROFILE XCCDF-FILE > XCCDF-GUIDE-FILE
 ```
 oscap xccdf generate report XCCDF-RESULT-FILE > XCCDF-REPORT-FILE
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frsprudencio%2Fopenscap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frsprudencio%2Fopenscap?ref=badge_large)
